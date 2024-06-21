@@ -1,4 +1,4 @@
-![logo](https://github.com/Vibhu2903/Vibhu2903/blob/main/Vibhu%20Kansagara.png)
+
 <h1 align="center">Hi 👋, I'm Vibhu Kansagara</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
