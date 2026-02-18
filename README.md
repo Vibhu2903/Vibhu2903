@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhu2903&label=Profile%20views&color=0e75b6&style=flat" alt="vibhu2903" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Vibhu2903](https://github.com/Vibhu2903)
 
 - 💬 Ask me about **Android , Flutter , SQL , C# .Net**
