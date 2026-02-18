@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vibhu2903](https://github.com/Vibhu2903)
 
-- 💬 Ask me about **Android , Flutter**
+- 💬 Ask me about **Android , Flutter , SQL , C# .Net**
 
 - 📫 How to reach me **kansagara.vibhu@gmail.com**
 
